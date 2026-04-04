@@ -3,7 +3,17 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
  <b>Enterprise-Style Home Network Simulation (Cisco Packet Tracer)</b>
-  - [A simulated enterprise-style home network built in Cisco Packet Tracer featuring VLAN segmentation, router-on-a-stick inter-VLAN routing, wireless isolation, and access control lists.]
+  - [A simulated enterprise-style home network built in Cisco Packet Tracer featuring 
+  - VLAN segmentation, 
+  - Router-on-a-stick 
+  - Inter-VLAN routing, 
+  - Wireless isolation, 
+  - Access control lists.]
+  - [Packet Tracer Enterprise Network](<../../Projects/Packet Tracer Enterprise Network/Advanced Home Network.pkt>)
+
 
 
 <h2>👨‍💻 Certifications:</h2>
+
+
+[def]: ../osemuikheloa-cyber/
