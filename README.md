@@ -9,7 +9,7 @@
 
 
 <h2>👨‍💻 Certifications</h2>
-[Cisco Ethical Hacker Certificate](<../../Certifications/Ethical_Hacker_certificate_osemuikheloa-gmail-com_4224893e-0bb1-47cb-8c7a-7991b768c51e.pdf>)
+([Cisco Ethical Hacker Certificate](<Certifications/Ethical_Hacker_certificate_osemuikheloa-gmail-com_4224893e-0bb1-47cb-8c7a-7991b768c51e.pdf>))
 
 
 [def]: ../osemuikheloa-cyber/
