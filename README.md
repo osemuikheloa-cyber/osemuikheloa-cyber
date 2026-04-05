@@ -9,7 +9,6 @@
 
 
 <h2>👨‍💻 Certifications</h2>
-<<<<<<< HEAD
 ([Cisco Ethical Hacker Certificate](<Certifications/Ethical_Hacker_certificate_osemuikheloa-gmail-com_4224893e-0bb1-47cb-8c7a-7991b768c51e.pdf>))
 
 
